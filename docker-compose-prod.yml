@@ -28,4 +28,4 @@ services:
       args:
         API_BASE_URL: ${FRONTEND_API_BASE_URL}
     ports:
-      - "80:80"
+      - "80"
